@@ -1,0 +1,40 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+<CATALOGO>
+    <CD>
+        <TITULO>Tinta roja</TITULO>
+        <ARTISTA>Andres Calamaro</ARTISTA>
+        <ORIGEN>AR</ORIGEN>
+        <PRECIO>5.90</PRECIO>
+        <ANO>2006</ANO>
+    </CD>
+    <CD>
+        <TITULO>Una aventura</TITULO>
+        <ARTISTA>Grupo Niche</ARTISTA>
+        <ORIGEN>CO</ORIGEN>
+        <PRECIO>9.90</PRECIO>
+        <ANO>2007</ANO>
+    </CD>
+	 <CD>
+        <TITULO>Comuniquemonos</TITULO>
+        <ARTISTA>Oscar Dleon</ARTISTA>
+        <ORIGEN>VE</ORIGEN>
+        <PRECIO>9.90</PRECIO>
+        <ANO>2000</ANO>
+    </CD>
+    <CD>
+        <TITULO>Back in black</TITULO>
+        <ARTISTA>Rolling Stones</ARTISTA>
+        <ORIGEN>US</ORIGEN>
+        <PRECIO>9.90</PRECIO>
+        <ANO>1985</ANO>
+    </CD>
+    <CD>
+        <TITULO>Salsa para el barrio</TITULO>
+        <ARTISTA>Orquesta Saraye</ARTISTA>
+        <ORIGEN>CA</ORIGEN>
+        <PRECIO>9.90</PRECIO>
+        <ANO>2020</ANO>
+    </CD>
+</CATALOGO>
+
+
